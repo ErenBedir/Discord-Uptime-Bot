@@ -31,7 +31,7 @@ module.exports = async (client) => {
   } catch (error) {
     console.error(error);
   }
-// Lourity - Paylaşılması yasaktır!!
+// ero
   console.log(`${client.user.tag} Aktif!`);
   client.user.setActivity("İyiki Doğdum Ben :)")
 
