@@ -1,7 +1,7 @@
 {
-  "name": "lourity",
+  "name": "ero",
   "version": "9.9.9",
-  "description": "Lourity",
+  "description": "ero",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
